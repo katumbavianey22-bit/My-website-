@@ -1,0 +1,72 @@
+body{
+   margin-bottom: 10px; 
+}
+nav a{
+	text-decoration:none;
+    color:rgb(46, 202, 46);
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+nav{
+    background-color:white;
+    height: 40px;
+      width: 1500px;
+      text-align: center;
+}
+header{
+  position: relative;
+  margin-bottom: 10px;
+}
+h1{
+   font-weight: bold; 
+   font-size: 25px;
+   color: green;
+}
+img{
+height: 700px;
+}
+.rabbits_eating_grass{
+    position: fixed;
+}
+
+button{
+    background-color: green;
+    border-radius: 15px;
+    border-style: solid;
+    border-color: green;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+margin: none;
+}
+.rab{
+    border-radius: 5px;
+    height: 300px;
+}
+.tt{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.aa{
+    position:absolute;
+}
+.bb{
+    position: relative;
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+}
+.farm{
+    margin-bottom: 500px;
+}
+.heading{
+    color: white;
+}
+.heading1{
+    color: rgb(221, 245, 4);
+    font-weight: bold;
+    font-size:40px ;
+}

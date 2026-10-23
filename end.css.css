@@ -1,0 +1,14 @@
+body{
+    background-color: orange;
+}
+.box{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin-left: 30px;
+}
+.a,.b,.c{
+    text-align: center;
+}
+.a{
+    font-size: medium;
+}

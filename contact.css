@@ -1,0 +1,41 @@
+.box{
+      display: grid;
+      text-align: center;
+}
+h1{
+    color:orange;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 0px;
+}
+.p1{
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+body{
+    background-color: bisque;
+}
+.name,.email,.message,.contact{
+    border-radius: 5px;
+    height: 20px;
+    width: 250px;
+    border-style: solid;
+    border-color: azure;
+    margin-bottom: 15px;
+}
+.message{
+    height: 40px;
+    
+}
+button{
+    margin-bottom: 20px;
+    color:white;
+    background-color: rgb(57, 129, 223);
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: medium;
+    border-style:none;
+    padding: 10px;
+}
+<a href="index"></a>
+
